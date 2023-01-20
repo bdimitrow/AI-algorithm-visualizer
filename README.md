@@ -1,2 +1,3 @@
-# AI-algorithm-visualizer
-A repository for AI course project.
+#AI-algorithm-visualiser
+
+Prerequisites - java 19.0.2 and javaFx
