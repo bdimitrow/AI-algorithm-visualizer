@@ -1,4 +1,7 @@
 package com.sofia.uni.ai.aialgorithmvisualizer.logic;
 
-public interface Traversal {
+public enum NodeColor {
+    BLUE,
+    GREEN,
+    RED
 }
