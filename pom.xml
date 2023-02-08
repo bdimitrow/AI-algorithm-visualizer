@@ -70,7 +70,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.sofia.uni.ai.aialgorithmvisualizer/com.sofia.uni.ai.aialgorithmvisualizer.HelloApplication
+                                com.sofia.uni.ai.aialgorithmvisualizer/com.sofia.uni.ai.aialgorithmvisualizer.AlgorithmVisualizerApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

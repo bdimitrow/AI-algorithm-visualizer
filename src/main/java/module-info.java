@@ -7,4 +7,5 @@ module com.sofia.uni.ai.aialgorithmvisualizer {
 
     opens com.sofia.uni.ai.aialgorithmvisualizer to javafx.fxml;
     exports com.sofia.uni.ai.aialgorithmvisualizer;
+    exports com.sofia.uni.ai.aialgorithmvisualizer.controllers;
 }
